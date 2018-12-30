@@ -17,4 +17,5 @@
 - Changing branches
   git checkout <branch_name>
 - Merging a brach
+  git merge <branch_name>
 - Removing a branch
